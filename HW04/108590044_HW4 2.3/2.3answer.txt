@@ -1,0 +1,6 @@
+1.
+Ans：new Intent(String action)
+2.
+Ans：All of the above.
+3.
+Ans：Intent takePicture = new Intent(MediaStore.ACTION_IMAGE_CAPTURE)
