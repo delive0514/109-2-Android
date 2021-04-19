@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">108590044_HW07 4.5</string>
+    <string name="action_contact">Contact</string>
+    <string name="action_order">Order</string>
+    <string name="action_status">Status</string>
+    <string name="action_favorites">Favorites</string>
+    <string name="beef_wellington">BEEF WELLINGTON</string>
+    <string name="potato">Potato Crusted Sea Bass</string>
+    <string name="potato_discrption">Potatoes and fish have always made a good match, this flaky tender fish with crispy potato crust is one of the best ways to serve them.</string>
+    <string name="beef_wellington_discrption">Beef Wellington is a steak dish of English origin, made out of fillet steak coated with pâté (often pâté de foie gras) and duxelles, wrapped in puff pastry, then baked.</string>
+</resources>
