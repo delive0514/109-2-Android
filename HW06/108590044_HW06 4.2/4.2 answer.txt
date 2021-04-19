@@ -1,0 +1,7 @@
+1.
+Ans：The major difference ist that checkboxes enable multiple selections, while a
+RadioGroup allows only one selection.
+2.
+Ans：LinearLayout
+3.
+Ans：isChecked()

@@ -1,0 +1,8 @@
+1.
+Ans：menu_main.xml
+2.
+Ans：onOptionsItemSelected(MenuItem item)
+3.
+Ans：myAlertBuilder.setTitle("Alert")
+4.
+Ans：In the onCreateDialog() method in the extension of DialogFragment
