@@ -1,0 +1,14 @@
+1.
+Ans：android.permission.INTERNET
+2.
+Ans：
+In the manifest: request ACCESS_NETWORK_STATE permission
+In the code: Use ConnectivityManager to check for an active network before connecting to the network.
+3.
+Ans：n the Activity that displays the results of the task. The Activity must implement LoaderManager.LoaderCallbacks.
+1.
+Ans：A running AsyncTask becomes disconnected from the activity and stops running, preserving system resources. A running AsyncTaskLoader
+5.
+Ans：In onCreateLoader() in the activity, create an instance of the AsyncTaskLoader subclass. In the loader's constructor, perform initialization tasks.
+6.
+Ans：loadInBackground() and onStartLoading; the subclass implementing AsyncTaskLoader will also need a constructor

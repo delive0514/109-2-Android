@@ -1,0 +1,11 @@
+1.
+Ans：
+(1)set integer values for android:min and android:max attributes
+(2)set integer value for android:progress attribute
+2.
+Ans：
+(1)URL
+(2)Integer
+(3)Long
+3.
+Ans：Implement onProgressUpdate(). Call publishProgress().
