@@ -1,0 +1,8 @@
+1.
+Ans：colorPrimary
+
+2.
+Ans：Design Support Library
+
+3.
+Ans：Any color shade labeled 500.

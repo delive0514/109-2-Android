@@ -1,0 +1,6 @@
+1.
+Ans：NinePatchDrawable
+2.
+Ans：StateListDrawable
+3.
+Ans：Theme.AppCompat.Light.DarkActionBar
