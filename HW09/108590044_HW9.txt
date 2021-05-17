@@ -1,0 +1,19 @@
+9-1
+Question 1
+Smallest Screen Width
+
+Question 2
+res/values-fr-rCA/
+
+Question 3
+res/values
+
+9-2
+Question 1
+Match a View, perform an action, and assert and verify the result.
+
+Question 2
+@RunWith and @Test
+
+Question 3
+onData() to load the adapter and enable the child View to appear on the screen.
